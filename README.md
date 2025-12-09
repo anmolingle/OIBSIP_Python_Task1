@@ -100,7 +100,7 @@ The assistant uses keyword matching and basic Regular Expressions to identify in
 ## 📂 Project Structure
 
 ```
-VoiceAssistant/
+OIBSIP_Python_Task1/
 ├── Assistant.py                # Main execution script (STT, TTS, Command Router)
 ├── config.py                   # Secure location for API keys and credentials (DO NOT COMMIT FILLED-OUT VERSION)
 ├── requirements.txt            # List of Python dependencies
