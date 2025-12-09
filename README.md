@@ -1,8 +1,5 @@
 ## 🗣️ Advanced Voice Assistant
 
------
-
-## 🌟 Project Overview
 
 This project is an advanced, customizable voice assistant built primarily in Python, designed to demonstrate sophisticated integration of **Speech Recognition (STT)**, **Natural Language Understanding (NLU)**, and **Task Automation** via external APIs.
 
